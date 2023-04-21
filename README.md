@@ -1,2 +1,2 @@
-# marathon-urok-1-Slider
+#Slider
 Slider реализованный на JavaScript
